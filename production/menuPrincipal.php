@@ -32,6 +32,7 @@
                   <li><a><i class="fa fa-edit"></i>SISPOZO<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="estacionmeteorologica.php">Estacion meteorologica.</a></li>
+                      <li><a href="propietariospozos.php">Propietarios pozos.</a></li>
                       <li><a href="form_advanced.html">Inscribir</a></li>
                       <li><a href="form_validation.html">Cierre de inscripcion</a></li>
                       <li><a href="form_wizards.html">Form Wizard</a></li>
