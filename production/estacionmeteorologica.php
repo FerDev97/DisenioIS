@@ -107,7 +107,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Materias.</h3>
+                <h3>Estacion meteorologica.</h3>
               </div>
 
               <div class="title_right">
@@ -145,11 +145,7 @@
                         <input type="text" class="form-control" id="inputSuccess3" placeholder="Nombre">
                         <span class="fa fa-book form-control-feedback right" aria-hidden="true"></span>
                       </div>
-
-                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">        
-                          <textarea class="form-control" rows="3" placeholder="Descripcion de la materia."></textarea>
-                      </div>
-                      <div class="form-group">
+                      
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
                             <option>Docentes</option>
@@ -159,7 +155,9 @@
                             <option>Fernando Arevalo</option>
                           </select>
                         </div>
-                      </div>
+                     
+                      
+                      
 
                       <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
