@@ -124,7 +124,7 @@
             <div class="clearfix"></div>
             
             <div class="row">
-              <div class="col-md-12 col-xs-12">
+              <div class="col-md-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
                     <h2>Formulario de ingreso.</h2>
@@ -136,36 +136,40 @@
                     <br />
                     <form class="form-horizontal form-label-left input_mask">
 
-                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                      <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Codigo">
                         <span class="fa fa-barcode form-control-feedback left" aria-hidden="true"></span>
                       </div>
 
-                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control" id="inputSuccess3" placeholder="Nombre">
-                        <span class="fa fa-book form-control-feedback right" aria-hidden="true"></span>
-                      </div>
                       
-                        <div class="col-md-6 col-sm-6 col-xs-12">
+                      <div class="form-group">
+                        <div class="col-md-6 col-sm-6 col-xs-6">
                           <select class="form-control">
-                            <option>Docentes</option>
-                            <option>Maria Luisa</option>
-                            <option>Melvin Rivas</option>
-                            <option>Jessica Rodriguez</option>
-                            <option>Fernando Arevalo</option>
+                            <option>Departamento</option>
+                            <option>Cabañas</option>
+                            <option>Chalatenango</option>
+                            <option>Cuscatlán</option>
+                            <option>La Libertad</option>
+                            <option>La Paz</option>
+                            <option>San Salvador</option>
+                            <option>San Vicente</option>
+                            <option>Morazán</option>
+                            <option>San Miguel</option>
+                            <option>Usulután</option>
+                            <option>La Unión</option>
+                            <option>Ahuachapán</option>
+                            <option>Sonsonate</option>
+                            <option>Santa Ana</option>
                           </select>
                         </div>
-                     
-                      
-                      
+                      </div>
 
                       <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
-                            <option>Opciones</option>
-                            <option>General</option>
-                            <option>Contador</option>
-                            
+                            <option>Municipio</option>
+                            <option>San Cayetano.</option>
+                            <option>Iztepeque</option>
                           </select>
                         </div>
                       </div>
