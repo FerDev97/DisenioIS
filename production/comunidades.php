@@ -149,7 +149,8 @@
                             </select>
                         </div>
                       </div>
-                       <div class="form-group">
+                      
+                      <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
                             <option>Tipo</option>
