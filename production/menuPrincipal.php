@@ -37,7 +37,7 @@
                       <li><a href="comunidades.php">Comunidades.</a></li>
                       <li><a href="propietariospozos.php">Propietarios pozos.</a></li>
                       <li><a href="visitantespozos.php">Visitantes pozos.</a></li>
-                      <li><a href="form_validation.html">Cierre de inscripcion</a></li>
+                      <li><a href="datosDePozos.php">Datos de pozos</a></li>
                       <li><a href="form_wizards.html">Form Wizard</a></li>
                       <li><a href="form_upload.html">Form Upload</a></li>
                       <li><a href="form_buttons.html">Form Buttons</a></li>
