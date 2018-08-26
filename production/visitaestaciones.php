@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	  
-    <title>Ingenieria de Software</title>
+    <title>SISPOZOS</title>
 
     <!-- Bootstrap -->
     <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -79,7 +79,7 @@
               <ul class="nav navbar-nav navbar-right">
                 <li class="">
                   <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                    <img src="images/img.jpg" alt="">Jessica
+                    <img src="images/img.jpg" alt="">Kevin Jovel
                     <span class=" fa fa-angle-down"></span>
                   </a>
                   <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -107,7 +107,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Responsables Estaciones.</h3>
+                <h3>Visita Estacion meteorologica.</h3>
               </div>
 
               <div class="title_right">
@@ -124,10 +124,10 @@
             <div class="clearfix"></div>
             
             <div class="row">
-              <div class="col-md-12 col-xs-12">
+              <div class="col-md-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>Formulario de ingreso de datos.</h2>
+                    <h2>Formulario de ingreso.</h2>
                     <ul class="nav navbar-right panel_toolbox">                   
                     </ul>
                     <div class="clearfix"></div>
@@ -136,22 +136,63 @@
                     <br />
                     <form class="form-horizontal form-label-left input_mask">
 
+                      
+
+                      
+                      <div class="form-group">
+                      <div class="col-md-6 col-sm-6 col-xs-6">
+                          <select class="form-control">
+                            <option>Visitante</option>
+                            <option>Cabañas</option>
+                            <option>Chalatenango</option>
+                            <option>Cuscatlán</option>
+                            <option>La Libertad</option>
+                            <option>La Paz</option>
+                            <option>San Salvador</option>
+                            <option>San Vicente</option>
+                            <option>Morazán</option>
+                            <option>San Miguel</option>
+                            <option>Usulután</option>
+                            <option>La Unión</option>
+                            <option>Ahuachapán</option>
+                            <option>Sonsonate</option>
+                            <option>Santa Ana</option>
+                          </select>
+                        </div>
+
+                        <div class="col-md-6 col-sm-6 col-xs-6">
+                          <select class="form-control">
+                            <option>Estacion</option>
+                            <option>Cabañas</option>
+                            <option>Chalatenango</option>
+                            <option>Cuscatlán</option>
+                            <option>La Libertad</option>
+                            <option>La Paz</option>
+                            <option>San Salvador</option>
+                            <option>San Vicente</option>
+                            <option>Morazán</option>
+                            <option>San Miguel</option>
+                            <option>Usulután</option>
+                            <option>La Unión</option>
+                            <option>Ahuachapán</option>
+                            <option>Sonsonate</option>
+                            <option>Santa Ana</option>
+                          </select>
+                        </div>
+                      </div>
+
+                      <div class="form-group">
                       <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="dui" placeholder="Dui">
+                        <input type="date" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Fecha">
                         <span class="fa fa-barcode form-control-feedback left" aria-hidden="true"></span>
                       </div>
-                      <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Telefono">
-                        <span class="fa fa-phone form-control-feedback left" aria-hidden="true"></span>
+                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">        
+                          <textarea class="form-control" rows="3" placeholder="Observacion"></textarea>
                       </div>
-                      <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre">
-                        <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
+ 
                       </div>
-                      <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="DIreccion">
-                        <span class="fa fa-map form-control-feedback left" aria-hidden="true"></span>
                       </div>
+                     
                       <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->
                       </div>

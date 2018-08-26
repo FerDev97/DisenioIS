@@ -158,8 +158,7 @@
                             <option>Institución</option>
                             </select>
                         </div>
-                      </div>
-                      <div class="form-group">
+
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
                             <option>Departamento</option>
@@ -170,6 +169,9 @@
                             </select>
                         </div>
                       </div>
+                      
+                        
+                      
                       
                       <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->

@@ -166,7 +166,7 @@
                         <span class="fa fa-location-arrow form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">        
-                          <textarea class="form-control" rows="3" placeholder="Direccion."></textarea>
+                          <textarea class="form-control" rows="4" placeholder="Direccion."></textarea>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Latitud">
