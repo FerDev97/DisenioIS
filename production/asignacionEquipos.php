@@ -142,8 +142,8 @@
                         <div class="col-md-6 col-sm-6 col-xs-6">
                           <select class="form-control">
                             <option>Observador</option>
-                            <option> </option>
-                            <option> </option>
+                            <option> Antonio Perez</option>
+                            <option> Juan Valdez</option>
                             <option> </option>
                             
                           </select>
@@ -153,7 +153,7 @@
                       <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
-                            <option>Equipo </option>
+                            <option>Asignación de Equipo</option>
                             <option> </option>
                             <option> </option>
                           </select>
