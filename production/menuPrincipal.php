@@ -39,10 +39,6 @@
                       <li><a href="visitantespozos.php">Visitantes pozos</a></li>
                       <li><a href="lecturadepozos.php">Lectura de pozos</a></li>
                       <li><a href="lecestacionmeteo.php">Lectura estación meteorológica</a></li>
-                      <li><a href="form_validation.html">Cierre de inscripcion</a></li>
-                      <li><a href="form_wizards.html">Form Wizard</a></li>
-                      <li><a href="form_upload.html">Form Upload</a></li>
-
                       <li><a href="estacionmeteorologica.php">Estacion meteorologica.</a></li>
                       <li><a href="observadorescomunales.php">Observadores Comunales.</a></li>
                       <li><a href="responsablesestaciones.php">Responsables Estaciones.</a></li>
@@ -52,8 +48,6 @@
                       <li><a href="datosDePozos.php">Datos de pozos</a></li>
                       <li><a href="equipos.php">Equipos</a></li>
                       <li><a href="asignacionEquipos.php">Asignacion de Equipos</a></li>
-
-                      <li><a href="form_buttons.html">Form Buttons</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-user"></i> Docentes<span class="fa fa-chevron-down"></span></a>
