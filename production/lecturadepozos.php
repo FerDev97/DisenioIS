@@ -79,7 +79,7 @@
               <ul class="nav navbar-nav navbar-right">
                 <li class="">
                   <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                    <img src="images/img.jpg" alt="">Fernando Josue
+                    <img src="images/img.jpg" alt="">Kevin Montano
                     <span class=" fa fa-angle-down"></span>
                   </a>
                   <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -107,7 +107,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Estacion meteorologica.</h3>
+                <h3>Lectura de pozos</h3>
               </div>
 
               <div class="title_right">
@@ -127,7 +127,7 @@
               <div class="col-md-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>Formulario de ingreso.</h2>
+                    
                     <ul class="nav navbar-right panel_toolbox">                   
                     </ul>
                     <div class="clearfix"></div>
@@ -136,16 +136,10 @@
                     <br />
                     <form class="form-horizontal form-label-left input_mask">
 
-                      <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Codigo">
-                        <span class="fa fa-barcode form-control-feedback left" aria-hidden="true"></span>
-                      </div>
-
-                      
                       <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-6">
+                        <div class="col-md-10 col-sm-10 col-xs-10">
                           <select class="form-control">
-                            <option>Departamento</option>
+                            <option>Pozos</option>
                             <option>Cabañas</option>
                             <option>Chalatenango</option>
                             <option>Cuscatlán</option>
@@ -163,28 +157,6 @@
                           </select>
                         </div>
                       </div>
-
-                      <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                          <select class="form-control">
-                            <option>Municipio</option>
-                            <option>San Cayetano.</option>
-                            <option>Iztepeque</option>
-                          </select>
-                        </div>
-
-                        <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                          <select class="form-control">
-                            <option>Responsable</option>
-                            <option>Investigador</option>
-                            <option>Docente</option>
-                            <option>Estudiante</option>
-                          </select>
-                        </div>
- 
-                      </div>
-                      </div>
                      
                       <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->
@@ -194,8 +166,8 @@
                       
                       <div class="ln_solid"></div>
                       <div class="form-group">
-                        <div class="col-md-9 col-sm-9 col-xs-12 col-md-offset-3">
-                        <button type="submit" class="btn btn-success">Guardar</button>
+                        <div class="col-md-10 col-sm-10 col-xs-10 col-md-offset-4">
+                        <button type="submit" class="btn btn-success">Leer sensor</button>
                           <button type="button" class="btn btn-warning">Cancelar</button>
 						   <!-- <button class="btn btn-primary" type="reset">Reset</button> -->
                          
