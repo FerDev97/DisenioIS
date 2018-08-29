@@ -141,8 +141,8 @@
                         <span class="fa fa-barcode form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="date" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Fecha de Nacimiento">
-                        <span class="fa fa-calendar form-control-feedback left" aria-hidden="true"></span>
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Correo electronico.">
+                        <span class="fa fa-at form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre">
