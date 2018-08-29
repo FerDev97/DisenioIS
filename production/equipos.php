@@ -143,7 +143,7 @@
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Descripción">
-                        <span class="fa fa-clipboard-list form-control-feedback left" aria-hidden="true"></span>
+                         <span class="fa fa-edit form-control-feedback left" aria-hidden="true"></span>
                       </div>
 
                       <div class="form-group">
@@ -159,16 +159,16 @@
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Marca">
-                        <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
+                        <span class="fa fa-registered form-control-feedback left" aria-hidden="true"></span>
                       </div>
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Numero de Serie">
-                        <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
+                        <span class="fa fa-list-ol form-control-feedback left" aria-hidden="true"></span>
                       </div>
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Cantidad">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Donadores">
                         <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       
