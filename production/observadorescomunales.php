@@ -124,7 +124,7 @@
             <div class="clearfix"></div>
             
             <div class="row">
-              <div class="col-md-12 col-xs-12">
+              <div class="col-md-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
                     <h2>Formulario de ingreso de datos.</h2>
@@ -204,6 +204,21 @@
                   </div>
                 </div>
               </div>      
+               <div class="col-md-6 col-sm-6 col-xs-6">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>MAPA <small>Observadores comunales.</small></h2>
+
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+                    <br />
+                    <div class="embed-responsive embed-responsive-4by3">
+                              <iframe src="ej.php" class="embed-responsive-item" allowfullscreen></iframe>
+                            </div>
+                  </div>
+                </div>
+              </div>  
             </div>
 
           
