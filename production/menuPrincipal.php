@@ -33,8 +33,8 @@
                   <li><a><i class="fa fa-edit"></i>SISPOZO<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="estacionmeteorologica.php">Estacion Meteorologica</a></li>
-                      <li><a href="responsablesestaciones.php">Responsables Estaciones</a></li>
-                      <li><a href="comunidades.php">Comunidades</a></li>
+                      <li><a href="responsablesestaciones.php">Responsables</a></li>
+                      <li><a href="comunidades.php">Instituciones y Comunidades</a></li>
                       <li><a href="propietariospozos.php">Propietarios Pozos</a></li>
                       <li><a href="visitantespozos.php">Visitantes Pozos</a></li>
                       <li><a href="lecturadepozos.php">Lectura de Pozos</a></li>

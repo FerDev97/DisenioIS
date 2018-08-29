@@ -107,7 +107,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Responsables Estaciones.</h3>
+                <h3>Responsables</h3>
               </div>
 
               <div class="title_right">
@@ -127,7 +127,7 @@
               <div class="col-md-12 col-xs-12">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>Formulario de ingreso de datos.</h2>
+                    <h2>Formulario de ingreso de datos</h2>
                     <ul class="nav navbar-right panel_toolbox">                   
                     </ul>
                     <div class="clearfix"></div>
@@ -137,21 +137,28 @@
                     <form class="form-horizontal form-label-left input_mask">
 
                       <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="dui" placeholder="Dui">
+                        <input type="text" class="form-control has-feedback-left" id="dui" placeholder="DUI">
                         <span class="fa fa-barcode form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Telefono">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Teléfono">
                         <span class="fa fa-phone form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre del Responsable">
                         <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="DIreccion">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Dirección">
                         <span class="fa fa-map form-control-feedback left" aria-hidden="true"></span>
                       </div>
+                      <div class="input-group " style="padding-bottom:25px;">
+     </i><span class="label label-default" style="width: 100px; font-size: 15px;margin-right:20px;margin-left:20px">Tipo</span>
+     <label class="radio-inline" style="width: 100px; font-size: 15px"><input type="radio" name="optradio">Comunidad</label>
+     <label class="radio-inline" style="width: 100px; font-size: 15px"><input type="radio" name="optradio">Institución</label>
+     <label class="radio-inline" style="width: 100px; font-size: 15px"><input type="radio" name="optradio">Estación</label>
+     </div>
+     
                       <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->
                       </div>

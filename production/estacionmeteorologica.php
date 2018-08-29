@@ -113,7 +113,7 @@ error_reporting(E_ALL & ~E_NOTICE);
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Estacion meteorologica.</h3>
+                <h3>Estación Meteorológica</h3>
               </div>
 
               <div class="title_right">
@@ -134,7 +134,7 @@ error_reporting(E_ALL & ~E_NOTICE);
               <div class="col-md-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>Formulario de ingreso.</h2>
+                    <h2>Formulario de ingreso de datos</h2>
                     <ul class="nav navbar-right panel_toolbox">                   
                     </ul>
                     <div class="clearfix"></div>
@@ -217,7 +217,7 @@ error_reporting(E_ALL & ~E_NOTICE);
               <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
-                    <h2>MAPA <small>Estacion meteorologica.</small></h2>
+                    <h2>MAPA <small>Estación Meteorológica.</small></h2>
 
                     <div class="clearfix"></div>
                   </div>
