@@ -7,7 +7,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 	  
-    <title>Ingenieria de Software</title>
+    <title>SICA | </title>
 
     <!-- Bootstrap -->
     <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -79,7 +79,7 @@
               <ul class="nav navbar-nav navbar-right">
                 <li class="">
                   <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                    <img src="images/img.jpg" alt="">Jessica
+                    <img src="images/img.jpg" alt="">Fernando Josue
                     <span class=" fa fa-angle-down"></span>
                   </a>
                   <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -107,7 +107,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Instituciones y Comunidades.</h3>
+                <h3>SISTEMA HIDROMETEOROLÓGICO.</h3>
               </div>
 
               <div class="title_right">
@@ -123,84 +123,7 @@
             </div>
             <div class="clearfix"></div>
             
-            <div class="row">
-              <div class="col-md-12 col-xs-12">
-                <div class="x_panel">
-                  <div class="x_title">
-                    <h2>Formulario de ingreso de datos.</h2>
-                    <ul class="nav navbar-right panel_toolbox">                   
-                    </ul>
-                    <div class="clearfix"></div>
-                  </div>
-                  <div class="x_content">
-                    <br />
-                    <form class="form-horizontal form-label-left input_mask">
-
-                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre de la  institución o comunidad.">
-                        <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
-                      </div>
-                      <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                          <select class="form-control">
-                            <option>Responsable de la institución o comunidad</option>
-                            <option>Alfredo Muñoz</option>
-                            <option>Juan Perez</option>
-                            </select>
-                        </div>
-                       </div>
-                       <div class="col-md-6 col-sm-6 col-xs-12">
-                          <select class="form-control">
-                            <option>Departamento</option>
-                            <option>San Vicente</option>
-                            <option>San Salvador</option>
-                            <option>Chalatenango</option>
-                            <option>La Paz</option>
-                            </select>
-                        </div>
-                        
-                        <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                          <select class="form-control">
-                            <option>Municipio</option>
-                            <option>Comunidad</option>
-                            <option>Institución</option>
-                            </select>
-                        </div>
-                        <br>
-                        <br>
-                        <br>
-                        <div class="input-group " style="padding-bottom:25px;">
-     </i><span class="label label-default" style="width: 100px; font-size: 15px;margin-right:20px;margin-left:20px">Tipo</span>
-     <label class="radio-inline" style="width: 100px; font-size: 15px"><input type="radio" name="optradio">Comunidad</label>
-     <label class="radio-inline" style="width: 100px; font-size: 15px"><input type="radio" name="optradio">Institución</label>
-     </div>
-     
-                        
-                      
-
-                        
-                        <div class="form-group">
-                        <!--Este div es para que agarre la linea que separa los botones.-->
-                      </div>
-                     
-                      
-                      
-                      <div class="ln_solid"></div>
-                      <div class="form-group">
-                        <div class="col-md-9 col-sm-9 col-xs-12 col-md-offset-3">
-                        <button type="submit" class="btn btn-success">Guardar</button>
-                          <button type="button" class="btn btn-warning">Cancelar</button>
-						   <!-- <button class="btn btn-primary" type="reset">Reset</button> -->
-                         
-                        </div>
-                      </div>
-
-                    </form>
-                  </div>
-                </div>
-              </div>      
-            </div>
+            <img  src="../production/images/volcan.jpg" style="width:1500px;height:700px ">
 
           
 
