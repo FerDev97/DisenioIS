@@ -108,7 +108,8 @@ error_reporting(E_ALL & ~E_NOTICE);
         <!-- /top navigation -->
 
         <!-- page content -->
-        <div class="right_col" role="main">
+        <div class="right_col" role="main" style="background: url('../production/images/volcan.jpg') top left no-repeat;";>
+      
           <div class="">
             <div class="page-title">
               <div class="title_left">
@@ -116,7 +117,7 @@ error_reporting(E_ALL & ~E_NOTICE);
               </div>
 
               <div class="title_right">
-                <div class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
+                <div  class="col-md-5 col-sm-5 col-xs-12 form-group pull-right top_search">
                   <!-- <div class="input-group">
                     <input type="text" class="form-control" placeholder="Search for...">
                     <span class="input-group-btn">
@@ -128,7 +129,8 @@ error_reporting(E_ALL & ~E_NOTICE);
             </div>
             <div class="clearfix"></div>
             
-            <div class="row">
+        
+            <div class="row" style="backgroud-color:blue">
               <div class="col-md-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
@@ -139,7 +141,7 @@ error_reporting(E_ALL & ~E_NOTICE);
                   </div>
                   <div class="x_content">
                     <br />
-                    <form class="form-horizontal form-label-left input_mask">
+                    <form class="form-horizontal form-label-left input_mask" >
 
                       <div class="col-md-6 col-sm-6 col-xs-6 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Codigo">
@@ -210,7 +212,8 @@ error_reporting(E_ALL & ~E_NOTICE);
                     </form>
                   </div>
                 </div>
-              </div>    
+              </div>  
+
               <div class="col-md-6 col-sm-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
@@ -225,7 +228,8 @@ error_reporting(E_ALL & ~E_NOTICE);
                             </div>
                   </div>
                 </div>
-              </div>  
+              </div> 
+
             </div>
 
           
