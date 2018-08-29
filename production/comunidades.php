@@ -107,7 +107,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Comunidades.</h3>
+                <h3>Instituciones y Comunidades.</h3>
               </div>
 
               <div class="title_right">
@@ -137,30 +137,19 @@
                     <form class="form-horizontal form-label-left input_mask">
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre de la  institución o comunidad.">
                         <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
-                            <option>Municipio</option>
-                            <option>Comunidad</option>
-                            <option>Institución</option>
+                            <option>Responsable de la institución o comunidad</option>
+                            <option>Alfredo Muñoz</option>
+                            <option>Juan Perez</option>
                             </select>
                         </div>
-                      </div>
-                      
-                      <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
-                          <select class="form-control">
-                            <option>Tipo</option>
-                            <option>Comunidad</option>
-                            <option>Institución</option>
-                            </select>
-                        </div>
-                      </div>
-                      <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
+                       </div>
+                       <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
                             <option>Departamento</option>
                             <option>San Vicente</option>
@@ -169,9 +158,29 @@
                             <option>La Paz</option>
                             </select>
                         </div>
-                      </div>
+                        
+                        <div class="form-group">
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                          <select class="form-control">
+                            <option>Municipio</option>
+                            <option>Comunidad</option>
+                            <option>Institución</option>
+                            </select>
+                        </div>
+                        <br>
+                        <br>
+                        <br>
+                        <div class="input-group " style="padding-bottom:25px;">
+     </i><span class="label label-default" style="width: 100px; font-size: 15px;margin-right:20px;margin-left:20px">Tipo</span>
+     <label class="radio-inline" style="width: 100px; font-size: 15px"><input type="radio" name="optradio">Comunidad</label>
+     <label class="radio-inline" style="width: 100px; font-size: 15px"><input type="radio" name="optradio">Institución</label>
+     </div>
+     
+                        
                       
-                      <div class="form-group">
+
+                        
+                        <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->
                       </div>
                      

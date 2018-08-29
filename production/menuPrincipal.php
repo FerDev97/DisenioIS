@@ -1,6 +1,6 @@
  <!-- MENU LATERAL -->
  <div class="navbar nav_title" style="border: 0;">
-              <a href="index.html" class="site_title"><i class="fa fa-paw"></i> <span>SICA</span></a>
+              <a href="index.html" class="site_title"><i class="fa fa-paw"></i> <span>Pozos</span></a>
             </div>
 
             <div class="clearfix"></div>
@@ -24,6 +24,7 @@
                 <ul class="nav side-menu">
                   <li><a><i class="fa fa-home"></i> Inicio<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
+                      <li><a href="main.php">SISPOZO</a></li>
                       <li><a href="index.php">Dashboard</a></li>
                       <li><a href="index2.html">Dashboard2</a></li>
                       <li><a href="index3.html">Dashboard3</a></li>
@@ -31,16 +32,19 @@
                   </li>
                   <li><a><i class="fa fa-edit"></i>SISPOZO<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="estacionmeteorologica.php">Estacion meteorologica.</a></li>
+                      <li><a href="estacionmeteorologica.php">Estacion Meteorologica</a></li>
+                      <li><a href="responsablesestaciones.php">Responsables</a></li>
+                      <li><a href="comunidades.php">Instituciones y Comunidades</a></li>
+                      <li><a href="propietariospozos.php">Propietarios Pozos</a></li>
+                      <li><a href="visitantespozos.php">Visitantes Pozos</a></li>
+                      <li><a href="lecturadepozos.php">Lectura de Pozos</a></li>
+                      <li><a href="lecestacionmeteo.php">Lectura Estación Meteorológica</a></li>
+                      <li><a href="visitapozos.php">Visita Pozos</a></li>
+                      <li><a href="visitaestaciones.php">Visita Estaciones</a></li>
                       <li><a href="observadorescomunales.php">Observadores Comunales.</a></li>
-                      <li><a href="responsablesestaciones.php">Responsables Estaciones.</a></li>
-                      <li><a href="comunidades.php">Comunidades.</a></li>
-                      <li><a href="propietariospozos.php">Propietarios pozos.</a></li>
-                      <li><a href="visitantespozos.php">Visitantes pozos.</a></li>
                       <li><a href="datosDePozos.php">Datos de pozos</a></li>
-                      <li><a href="form_wizards.html">Form Wizard</a></li>
-                      <li><a href="form_upload.html">Form Upload</a></li>
-                      <li><a href="form_buttons.html">Form Buttons</a></li>
+                      <li><a href="equipos.php">Equipos</a></li>
+                      <li><a href="asignacionEquipos.php">Asignacion de Equipos</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-user"></i> Docentes<span class="fa fa-chevron-down"></span></a>

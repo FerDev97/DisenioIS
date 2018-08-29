@@ -1,3 +1,8 @@
+<?php
+//Codigo que muestra solo los errores exceptuando los notice.
+error_reporting(E_ALL & ~E_NOTICE);
+
+?>
 <!DOCTYPE html>
 <html lang="en">
   <head>
@@ -172,6 +177,18 @@
                             <option>Iztepeque</option>
                           </select>
                         </div>
+
+                        <div class="form-group">
+                        <div class="col-md-6 col-sm-6 col-xs-12">
+                          <select class="form-control">
+                            <option>Responsable</option>
+                            <option>Investigador</option>
+                            <option>Docente</option>
+                            <option>Estudiante</option>
+                          </select>
+                        </div>
+ 
+                      </div>
                       </div>
                      
                       <div class="form-group">
@@ -193,7 +210,22 @@
                     </form>
                   </div>
                 </div>
-              </div>      
+              </div>    
+              <div class="col-md-6 col-sm-6 col-xs-6">
+                <div class="x_panel">
+                  <div class="x_title">
+                    <h2>MAPA <small>Estacion meteorologica.</small></h2>
+
+                    <div class="clearfix"></div>
+                  </div>
+                  <div class="x_content">
+                    <br />
+                    <div class="embed-responsive embed-responsive-4by3">
+                              <iframe src="ej.php" class="embed-responsive-item" allowfullscreen></iframe>
+                            </div>
+                  </div>
+                </div>
+              </div>  
             </div>
 
           

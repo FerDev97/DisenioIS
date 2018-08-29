@@ -79,7 +79,7 @@
               <ul class="nav navbar-nav navbar-right">
                 <li class="">
                   <a href="javascript:;" class="user-profile dropdown-toggle" data-toggle="dropdown" aria-expanded="false">
-                    <img src="images/img.jpg" alt="">Jessica
+                    <img src="images/img.jpg" alt="">Abigal
                     <span class=" fa fa-angle-down"></span>
                   </a>
                   <ul class="dropdown-menu dropdown-usermenu pull-right">
@@ -107,7 +107,7 @@
           <div class="">
             <div class="page-title">
               <div class="title_left">
-                <h3>Observadores Comunales.</h3>
+                <h3>Equipos.</h3>
               </div>
 
               <div class="title_right">
@@ -137,53 +137,53 @@
                     <form class="form-horizontal form-label-left input_mask">
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="dui" placeholder="DUI">
-                        <span class="fa fa-barcode form-control-feedback left" aria-hidden="true"></span>
-                      </div>
-                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="date" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Fecha de Nacimiento">
-                        <span class="fa fa-calendar form-control-feedback left" aria-hidden="true"></span>
-                      </div>
-                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nombre">
                         <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
                       </div>
+
+                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Descripción">
+                         <span class="fa fa-edit form-control-feedback left" aria-hidden="true"></span>
+                      </div>
+
                       <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
-                            <option>Género</option>
-                            <option>Femenino</option>
-                            <option>Masculino</option>
+                            <option>Tipo de Uso</option>
+                            <option>Pluviometro</option>
+                            <option>Agrometeorologico</option>
+                            <option>Estación Meteorologica</option>
                             </select>
                         </div>
                       </div>
+
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Teléfono">
-                        <span class="fa fa-phone form-control-feedback left" aria-hidden="true"></span>
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Marca">
+                        <span class="fa fa-registered form-control-feedback left" aria-hidden="true"></span>
                       </div>
+
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Longitud">
-                        <span class="fa fa-location-arrow form-control-feedback left" aria-hidden="true"></span>
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Numero de Serie">
+                        <span class="fa fa-list-ol form-control-feedback left" aria-hidden="true"></span>
                       </div>
-                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">        
-                          <textarea class="form-control" rows="4" placeholder="Dirección."></textarea>
-                      </div>
+
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Latitud">
-                        <span class="fa fa-location-arrow form-control-feedback left" aria-hidden="true"></span>
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Donadores">
+                        <span class="fa fa-user form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       
                       <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
-                            <option>Comunidad</option>
-                            <option>Santa Clara</option>
-                            <option>El Santuario</option>
-                            
-                          </select>
+                            <option>Estado</option>
+                            <option>En uso</option>
+                            <option>En mal estado</option>
+                            <option>Extraviado</option>
+                            </select>
                         </div>
                       </div>
                      
+                      
                       <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->
                       </div>
