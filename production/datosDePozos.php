@@ -30,6 +30,8 @@
 
     <!-- Custom Theme Style -->
     <link href="../build/css/custom.min.css" rel="stylesheet">
+
+
   </head>
 
   <body class="nav-md">
@@ -174,38 +176,39 @@
                         </div>
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Latitud">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Latitud, g°">
                         <span class="fa fa-location-arrow form-control-feedback left" aria-hidden="true"></span>
                       </div>
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Longitud">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Longitud, g°">
                         <span class="fa fa-location-arrow form-control-feedback left" aria-hidden="true"></span>
                       </div>
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Altura">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Altura, msnm (metros sobre el nivel del mar)">
                         <span class="fa fa-arrow-up form-control-feedback left" aria-hidden="true"></span>
                       </div>
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nivel">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Nivel del pozo, mtrs (metros)">
                         <span class="fa fa-list form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Profundidad">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Profundidad, mts (metros)">
                         <span class="fa fa-arrow-down form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="date" class="form-control has-feedback-left" id="inputSuccess2">
+                        <input id="fecha" type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Fecha de creación" onfocus="(this.type='date')">
                         <span class="fa fa-calendar form-control-feedback left" aria-hidden="true"></span>
+                        
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">        
                           <textarea class="form-control" rows="3" placeholder="Geologia."></textarea>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">        
-                          <textarea class="form-control" rows="3" placeholder="Observacion."></textarea>
+                          <textarea class="form-control" rows="3" placeholder="Observación."></textarea>
                       </div>
                       
                       
