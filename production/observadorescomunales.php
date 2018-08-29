@@ -137,7 +137,7 @@
                     <form class="form-horizontal form-label-left input_mask">
 
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="dui" placeholder="Dui">
+                        <input type="text" class="form-control has-feedback-left" id="dui" placeholder="DUI">
                         <span class="fa fa-barcode form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
@@ -151,14 +151,14 @@
                       <div class="form-group">
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
-                            <option>Genero</option>
+                            <option>Género</option>
                             <option>Femenino</option>
                             <option>Masculino</option>
                             </select>
                         </div>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Telefono">
+                        <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Teléfono">
                         <span class="fa fa-phone form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
@@ -166,7 +166,7 @@
                         <span class="fa fa-location-arrow form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">        
-                          <textarea class="form-control" rows="4" placeholder="Direccion."></textarea>
+                          <textarea class="form-control" rows="4" placeholder="Dirección."></textarea>
                       </div>
                       <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
                         <input type="text" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Latitud">
@@ -177,8 +177,8 @@
                         <div class="col-md-6 col-sm-6 col-xs-12">
                           <select class="form-control">
                             <option>Comunidad</option>
-                            <option>General</option>
-                            <option>Contador</option>
+                            <option>Santa Clara</option>
+                            <option>El Santuario</option>
                             
                           </select>
                         </div>
