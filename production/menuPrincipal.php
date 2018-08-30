@@ -25,60 +25,51 @@
                   <li><a><i class="fa fa-home"></i> Inicio<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="main.php">SISPOZO</a></li>
-                      <li><a href="index.php">Dashboard</a></li>
-                      <li><a href="index2.html">Dashboard2</a></li>
-                      <li><a href="index3.html">Dashboard3</a></li>
+                      
                     </ul>
                   </li>
                   <li><a><i class="fa fa-edit"></i>Estacion Meteorologica<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="estacionmeteorologica.php">Estacion Meteorologica</a></li>
-                      <li><a href="responsablesestaciones.php">Responsables</a></li>
-                      <li><a href="comunidades.php">Instituciones y Comunidades</a></li>
-                      <li><a href="propietariospozos.php">Propietarios Pozos</a></li>
-                      <li><a href="visitantespozos.php">Visitantes Pozos</a></li>
-                      <li><a href="lecturadepozos.php">Lectura de Pozos</a></li>
                       <li><a href="lecestacionmeteo.php">Lectura Estación Meteorológica</a></li>
-                      <li><a href="visitapozos.php">Visita Pozos</a></li>
                       <li><a href="visitaestaciones.php">Visita Estaciones</a></li>
-                      <li><a href="observadorescomunales.php">Observadores Comunales.</a></li>
-                      <li><a href="datosDePozos.php">Datos de pozos</a></li>
-                      <li><a href="equipos.php">Equipos</a></li>
-                      <li><a href="asignacionEquipos.php">Asignacion de Equipos</a></li>
-                    </ul>
+                      </ul>
                   </li>
                   <li><a><i class="fa fa-tint"></i> Pozos<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="general_elements.html">Agregar nuevo</a></li>
-                      <li><a href="media_gallery.html">Lista de docentes</a></li>
+                      <li><a href="datosDePozos.php">Datos de pozos</a></li>
+                      <li><a href="propietariospozos.php">Propietarios Pozos</a></li>
+                      <li><a href="visitantespozos.php">Visitantes Pozos</a></li>
+                      <li><a href="lecturadepozos.php">Lectura de Pozos</a></li>
+                      <li><a href="visitapozos.php">Visita Pozos</a></li>
+                      
                      
                     </ul>
                   </li>
                   <li><a><i class="fa fa-users"></i> Instituciones/Comunidades <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                    <li><a href="materias.php">Agergar nueva materia</a></li>
-                      <li><a href="tables.html">Lista de materias</a></li>
-                      <li><a href="tables_dynamic.html">Table Dynamic</a></li>
+                    <li><a href="responsablesestaciones.php">Responsables</a></li>
+                    <li><a href="comunidades.php">Instituciones y Comunidades</a></li>
+                    
+                    
                     </ul>
                   </li>
                   <li><a><i class="fa fa-eye"></i> Observadores <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="chartjs.html">Asignar notas</a></li>
-                      <li><a href="chartjs2.html">Ver notas</a></li>
-                      <li><a href="morisjs.html">Boleta de notas</a></li>
+                    <li><a href="observadorescomunales.php">Observadores Comunales.</a></li>
                     </ul>
                   </li>
                   <li><a><i class="fa fa-mobile"></i>Equipos <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
-                      <li><a href="fixed_sidebar.html">Agregar opcion</a></li>
-                      <li><a href="fixed_footer.html">Lista de opciones</a></li>
+                    <li><a href="equipos.php">Equipos</a></li>
+                    <li><a href="asignacionEquipos.php">Asignacion de Equipos</a></li>
                     </ul>
                   </li>
-              <li><a><i class="fa fa-person"></i>Usuarios<span class="fa fa-chevron-down"></span></a>
+              <li><a><i class="fa fa-user"></i>Usuarios<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="fixed_sidebar.html">Nuevo usuario</a></li>
                       <li><a href="fixed_sidebar.html">Lista de usuarios</a></li>
-                      <li><a href="fixed_footer.html">Bitacora</a></li>
+                      
                     </ul>
                   </li>
                 </ul>
