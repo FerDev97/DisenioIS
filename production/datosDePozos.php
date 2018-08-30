@@ -251,8 +251,26 @@
                   </div>
                 </div>
               </div>      
-            </div>
+            </div><!--Fin del row del formulario-->
+            <div class="row">
 
+              <div class="col-md-12 col-xs-12">
+                <div class="x_panel">
+                    <div class="x_title">
+                      <h2>MAPA <small>Ubicacion de pozos.</small></h2>
+
+                      <div class="clearfix"></div>
+                    </div>
+                    <div class="x_content">
+                      <br />
+                      <div class="embed-responsive embed-responsive-4by3">
+                                <iframe src="ej.php" class="embed-responsive-item" allowfullscreen></iframe>
+                              </div>
+                    </div>
+                  </div>
+              </div>
+            
+            </div>
           
 
         
