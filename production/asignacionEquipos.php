@@ -139,7 +139,7 @@
                      
                       
                       <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-6">
+                        <div class="col-md-7 col-sm-7 col-xs-6">
                           <select class="form-control">
                             <option>Observador</option>
                             <option> Antonio Perez</option>
@@ -151,7 +151,7 @@
                       </div>
 
                       <div class="form-group">
-                        <div class="col-md-6 col-sm-6 col-xs-12">
+                        <div class="col-md-7 col-sm-7 col-xs-12">
                           <select class="form-control">
                             <option>Asignación de Equipo</option>
                             <option> </option>
@@ -160,11 +160,18 @@
                         </div>
                       </div>
                      
-                     <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
-                      <span class="label label-default" style="width: 220px; height: 20px; font-size: 15px; margin-bottom: 10px">Fecha de Asignación</span>
+                     <div class="col-md-7 col-sm-7 col-xs-12 form-group has-feedback">
+                      <span class="label label-default" style="width: 220px; height: 20px; font-size: 15px; margin-bottom: 10px;
+                      margin-left: 25px;" >Fecha de Asignación</span>
 
-                        <input type="date" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Fecha de Asignación">
                       </div>
+
+                      <div class="col-md-7 col-sm-7 col-xs-12 form-group has-feedback">
+                        <input type="date" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Fecha de asignación">
+                        <span class="fa fa-calendar form-control-feedback left" aria-hidden="true"></span>
+                      </div>
+
+
                       <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->
                       </div>

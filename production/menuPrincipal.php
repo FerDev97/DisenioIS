@@ -30,7 +30,7 @@
                       <li><a href="index3.html">Dashboard3</a></li>
                     </ul>
                   </li>
-                  <li><a><i class="fa fa-edit"></i>SISPOZO<span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-edit"></i>Estacion Meteorologica<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="estacionmeteorologica.php">Estacion Meteorologica</a></li>
                       <li><a href="responsablesestaciones.php">Responsables</a></li>
@@ -47,34 +47,34 @@
                       <li><a href="asignacionEquipos.php">Asignacion de Equipos</a></li>
                     </ul>
                   </li>
-                  <li><a><i class="fa fa-user"></i> Docentes<span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-tint"></i> Pozos<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="general_elements.html">Agregar nuevo</a></li>
                       <li><a href="media_gallery.html">Lista de docentes</a></li>
                      
                     </ul>
                   </li>
-                  <li><a><i class="fa fa-book"></i> Materias <span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-users"></i> Instituciones/Comunidades <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                     <li><a href="materias.php">Agergar nueva materia</a></li>
                       <li><a href="tables.html">Lista de materias</a></li>
                       <li><a href="tables_dynamic.html">Table Dynamic</a></li>
                     </ul>
                   </li>
-                  <li><a><i class="fa fa-table"></i> Notas <span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-eye"></i> Observadores <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="chartjs.html">Asignar notas</a></li>
                       <li><a href="chartjs2.html">Ver notas</a></li>
                       <li><a href="morisjs.html">Boleta de notas</a></li>
                     </ul>
                   </li>
-                  <li><a><i class="fa fa-graduation-cap"></i>Opcion <span class="fa fa-chevron-down"></span></a>
+                  <li><a><i class="fa fa-mobile"></i>Equipos <span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="fixed_sidebar.html">Agregar opcion</a></li>
                       <li><a href="fixed_footer.html">Lista de opciones</a></li>
                     </ul>
                   </li>
-              <li><a><i class="fa fa-users"></i>Usuarios<span class="fa fa-chevron-down"></span></a>
+              <li><a><i class="fa fa-person"></i>Usuarios<span class="fa fa-chevron-down"></span></a>
                     <ul class="nav child_menu">
                       <li><a href="fixed_sidebar.html">Nuevo usuario</a></li>
                       <li><a href="fixed_sidebar.html">Lista de usuarios</a></li>
