@@ -108,8 +108,8 @@ error_reporting(E_ALL & ~E_NOTICE);
         <!-- /top navigation -->
 
         <!-- page content -->
-        <div class="right_col" role="main" style="background: url('../production/images/volcan.jpg') top left no-repeat;";>
-      
+        <div class="right_col" role="main" >
+        <!--style="background: url('../production/images/volcan.jpg') top left no-repeat;";-->
           <div class="">
             <div class="page-title">
               <div class="title_left">
@@ -130,7 +130,7 @@ error_reporting(E_ALL & ~E_NOTICE);
             <div class="clearfix"></div>
             
         
-            <div class="row" style="backgroud-color:blue">
+            <div class="row">
               <div class="col-md-6 col-xs-6">
                 <div class="x_panel">
                   <div class="x_title">
