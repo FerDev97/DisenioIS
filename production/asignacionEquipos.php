@@ -161,8 +161,9 @@
                       </div>
                      
                      <div class="col-md-6 col-sm-6 col-xs-12 form-group has-feedback">
+                      <span class="label label-default" style="width: 220px; height: 20px; font-size: 15px; margin-bottom: 10px">Fecha de Asignación</span>
+
                         <input type="date" class="form-control has-feedback-left" id="inputSuccess2" placeholder="Fecha de Asignación">
-                        <span class="fa fa-calendar form-control-feedback left" aria-hidden="true"></span>
                       </div>
                       <div class="form-group">
                         <!--Este div es para que agarre la linea que separa los botones.-->
