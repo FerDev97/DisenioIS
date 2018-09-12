@@ -8,7 +8,7 @@
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1">
 
-    <title>DataTables | Gentelella</title>
+    <title>Ingenieria</title>
 
     <!-- Bootstrap -->
     <link href="../vendors/bootstrap/dist/css/bootstrap.min.css" rel="stylesheet">
@@ -273,8 +273,8 @@
                         </tr>
         <?php //inserta en el mismo for -->JcMoz
         
-//		$sql = "INSERT INTO lecturapozos (idpozo,date,time,ms,level,temperature) VALUE('$id','$nuevafecha','$horaImprimir','$ms','$nivel','$temperatura')";
-//		$result = $mysqli->query($sql);
+		$sql = "INSERT INTO lecturapozos (idpozo,date,time,ms,level,temperature) VALUE('$id','$nuevafecha','$horaImprimir','$ms','$nivel','$temperatura')";
+		$result = $mysqli->query($sql);
         }
         ?>
                       </tbody>
